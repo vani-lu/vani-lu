@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vani-lu
-- 🌱 I’m currently studying decision making
+- 🌱 I’m currently studying cognitive science
 - 📫 vanesslu@pku.edu.cn
 
 <!---
