@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vani-lu
+- 👋 Hi, I’m Vani
 - 🌱 I’m currently studying cognitive science
 - 📫 vanesslu@pku.edu.cn
 
